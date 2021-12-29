@@ -1,2 +1,2 @@
 
-
+GRANT ALL PRIVILEGES ON DATABASE mydb to Ilya;
