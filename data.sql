@@ -12,7 +12,6 @@ insert into usr (first_name, middle_name, last_name, email) values
 ('Евгений', 'Петрович', 'Петров', 'epetrov@my.example.com'),
 ('Владимир', 'Петрович', 'Сидоров', 'vlasidorov@my.example.com'),
 ('Джон', 'Иванович', 'Иванов', 'jivanov@my.example.com');
-
 insert into usr (first_name, middle_name, e_mail, role_name, birth_date) values
 ('Темоха', 'Иванович', 'Иванов', 'temivanov@my.example.com', 'user', '2002-12-04'),
 ('Тема', 'Петрович', 'Петров', 'temapetrov@my.example.com', 'user', '2002-12-04'),

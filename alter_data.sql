@@ -9,7 +9,6 @@ update usr set birth_date='2008-01-08 04:05:06' where id>10;
 
 alter table usr add constraint FK_USR_ROLE foreign key (role_name) references
 role;
-
 create table role (
 name varchar(20) not null,
 primary key (name));
